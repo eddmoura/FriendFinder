@@ -9,7 +9,7 @@ app.get("/api/friends.js", function(req, res) {
 
 app.post("/api/friends.js", function(req, res){
   friendsData.push(req.body);
-res.json(true);
+res.json(false);
 
 });
 

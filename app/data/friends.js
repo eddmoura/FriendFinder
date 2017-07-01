@@ -1,7 +1,7 @@
 var friendSurvey = [
 {
-    name:"Ahmed",
-    photo:"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    name:"Bobby",
+    photo:"https://cdn.pixabay.com/photo/2016/12/13/05/15/puppy-1903313_960_720.jpg",
     scores:[
         5,
         1,
